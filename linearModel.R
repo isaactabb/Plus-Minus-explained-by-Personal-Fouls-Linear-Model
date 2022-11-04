@@ -1,6 +1,6 @@
 # LinearModel.R
 # The purpose of this file is to run the linear model and create necessary .csv files for main.cpp functionality.
-# Note: This file does not print anything from the model. This file is called in the main function before user is
+# Note: This file does not print anything from the model.
 
 # reads in arguments
 args <- commandArgs(trailingOnly = TRUE)
