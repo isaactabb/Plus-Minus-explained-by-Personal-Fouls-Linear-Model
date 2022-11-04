@@ -1,5 +1,5 @@
-### NBA Plus Minus Explained By Personal Fouls: A Linear Model
-# Isaac Tabb
+# NBA Plus Minus Explained By Personal Fouls: A Linear Model
+### Isaac Tabb
 
 Languages used: C++, Python, R
 
