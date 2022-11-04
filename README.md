@@ -23,14 +23,13 @@ The user could get an overview of what NBA stats are in the dataset and choose o
 
 ### Citations
 #### Data Extracted From
-https://www.basketball-reference.com/boxscores/?month=10&day=19&year=2022
+NBA Games Played on October 19, 2022 | Basketball-Reference.com. https://www.basketball-reference.com/boxscores/?month=10&amp;day=19&amp;year=2022. 
 #### Used in R Code
-https://stackoverflow.com/questions/2669598/calling-r-script-from-within-c-code
+user320602. “Calling R Script from within C-Code.” Stack Overflow, 1 July 1957, https://stackoverflow.com/questions/2669598/calling-r-script-from-within-c-code. 
 #### Used in Python Code
-https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58
+How to Read CSV File into Python Using Pandas. https://towardsdatascience.com/how-to-read-csv-file-using-pandas-ab1f5e7e7b58. 
 
-
-https://sparkbyexamples.com/pandas/conver-pandas-column-to-list/#:~:text=tolist()%20you%20can%20convert,the%20column%20values%20to%20list
+Nnk. “How to Convert Pandas Column to List.” Spark by {Examples}, 27 Jan. 2022, https://sparkbyexamples.com/pandas/conver-pandas-column-to-list/. 
 
 
 
